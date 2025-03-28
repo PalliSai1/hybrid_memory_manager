@@ -1,4 +1,5 @@
-const backendUrl = "http://localhost:5000";
+const backendUrl = "https://hybrid-memory-manager.onrender.com";
+
 
 async function fetchMemoryStatus() {
     try {
